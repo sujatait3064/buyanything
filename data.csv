@@ -1,0 +1,11 @@
+id,name,email,age,city,signup_date
+1,Amit Sharma,amit.sharma@example.com,28,Bangalore,2024-01-15
+2,Neha Verma,neha.verma@example.com,32,Delhi,2023-11-22
+3,Rahul Mehta,rahul.mehta@example.com,25,Mumbai,2024-03-05
+4,Priya Singh,priya.singh@example.com,29,Hyderabad,2023-12-10
+5,Arjun Patel,arjun.patel@example.com,35,Ahmedabad,2024-02-18
+6,Kavya Nair,kavya.nair@example.com,27,Kochi,2024-01-30
+7,Rohan Das,rohan.das@example.com,31,Kolkata,2023-10-14
+8,Sneha Iyer,sneha.iyer@example.com,26,Chennai,2024-03-12
+9,Vikram Rao,vikram.rao@example.com,40,Pune,2023-09-25
+10,Ananya Gupta,ananya.gupta@example.com,24,Jaipur,2024-02-05
